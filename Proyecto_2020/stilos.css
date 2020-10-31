@@ -1,0 +1,89 @@
+* { padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+
+}
+html {
+    font-size: 62.5%;
+}
+
+.container {
+    border: solid black;
+    height: auto;
+    width: 374px;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:auto;
+    padding: 15px;
+    border-radius: 10px;
+    background-image:linear-gradient(to top, #30cfd0 0%, #330867 100%);;
+    font-family: 'Itim', cursive;
+    
+}
+.container h1 {
+    text-align: center;
+    padding: 25px;
+    color: white
+    ;
+    font-size: 4rem;
+   
+}
+.form1 {
+    padding: 10px;
+    
+}
+.form1 input {
+    height: 40px;
+    width: 318px;
+    border-radius: 5px;
+    border: 0;
+   
+
+}
+
+.form1 span {
+    font-size: 2rem ;
+    
+}
+.form1 .line {
+    padding-bottom: 5px;
+    display: inline-block;
+    
+}
+.form1 img {
+    width: 20px;
+    height: 20px;
+}
+.formunico {
+    padding: 10px;
+    font-size: 2rem;
+}
+.formunico span {
+    margin-right: 3px;
+}
+.footer {
+    font-size:1.4rem;
+}
+.footer .submit input {
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+    margin-top: 15px;
+    margin-bottom: 14px;
+    width: 90px;
+    height: 40px;
+    border-radius: 10px;
+    border: 0;
+    font-size: 1.6rem;
+    font-weight: bold;
+    background: #ffb199;
+    background: #e52d27;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #b31217, #e52d27);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #b31217, #e52d27); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+   
+
+
+
+    
+}
